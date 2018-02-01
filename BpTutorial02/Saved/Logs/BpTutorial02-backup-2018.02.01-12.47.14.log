@@ -1,0 +1,1151 @@
+﻿Log file open, 01/26/18 18:07:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BpTutorial02
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(273949935) SRandInit(273949936).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171980
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.26-23.07.38:734][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-23.07.38:734][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.26-23.07.38:745][  0]LogInit: Computer: JUNE
+[2018.01.26-23.07.38:745][  0]LogInit: User: VRClubUser
+[2018.01.26-23.07.38:745][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.26-23.07.38:745][  0]LogInit: High frequency timer resolution =3.905120 MHz
+[2018.01.26-23.07.38:746][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.01.26-23.07.38:746][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.26-23.07.38:746][  0]LogMemory: Process Physical Memory: 279.30 MB used, 279.30 MB peak
+[2018.01.26-23.07.38:746][  0]LogMemory: Process Virtual Memory: 276.17 MB used, 276.17 MB peak
+[2018.01.26-23.07.38:746][  0]LogMemory: Physical Memory: 6806.79 MB used,  25910.78 MB free, 32717.57 MB total
+[2018.01.26-23.07.38:746][  0]LogMemory: Virtual Memory: 740.75 MB used,  25910.78 MB free, 134217728.00 MB total
+[2018.01.26-23.07.38:877][  0]LogInit: Using OS detected language (en-US).
+[2018.01.26-23.07.38:877][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.26-23.07.38:879][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.26-23.07.39:253][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.26-23.07.39:472][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.26-23.07.39:512][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.01.26-23.07.39:512][  0]LogD3D11RHI:       8086/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.26-23.07.39:514][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.26-23.07.39:514][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.26-23.07.39:514][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.26-23.07.39:520][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.26-23.07.39:520][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.26-23.07.39:520][  0]LogWindows: EnumDisplayDevices:
+[2018.01.26-23.07.39:520][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.01.26-23.07.39:520][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.01.26-23.07.39:520][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.01.26-23.07.39:521][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.01.26-23.07.39:521][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.26-23.07.39:521][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.01.26-23.07.39:521][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.26-23.07.39:521][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.26-23.07.39:521][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.01.26-23.07.39:545][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.26-23.07.39:555][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.26-23.07.39:557][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Intermediate/Shaders/WorkingDirectory/7464/).
+[2018.01.26-23.07.39:557][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VR Club User/AppData/Local/Temp/UnrealShaderWorkingDir/C064A45F4E139EAD48263184E04728D7/'.
+[2018.01.26-23.07.39:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.26-23.07.40:355][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.26-23.07.40:401][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.26-23.07.40:445][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.26-23.07.40:491][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.26-23.07.40:537][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.26-23.07.40:582][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.26-23.07.40:626][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.26-23.07.40:670][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.26-23.07.40:709][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.26-23.07.40:754][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.26-23.07.40:796][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.26-23.07.40:840][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.26-23.07.40:884][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.26-23.07.40:928][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.26-23.07.41:021][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.26-23.07.41:022][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.26-23.07.41:067][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.26-23.07.41:101][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.26-23.07.41:181][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.26-23.07.41:204][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.26-23.07.41:247][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.26-23.07.41:291][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.26-23.07.41:335][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.26-23.07.41:379][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.26-23.07.41:379][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.26-23.07.41:812][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.26-23.07.41:879][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/VR Club User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-23.07.41:880][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VR Club User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.26-23.07.41:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.26-23.07.41:880][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.26-23.07.41:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.26-23.07.41:880][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.26-23.07.41:893][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.26-23.07.41:905][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VR Club User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.26-23.07.41:913][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.26-23.07.41:914][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.26-23.07.41:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-23.07.41:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-23.07.42:261][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-23.07.42:559][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.26-23.07.42:594][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.26-23.07.42:594][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.26-23.07.42:594][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.26-23.07.42:594][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.26-23.07.42:594][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.26-23.07.42:622][  0]LogNetVersion: BpTutorial02 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1699814917)
+[2018.01.26-23.07.42:784][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.01.26-23.07.43:235][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.060832 seconds
+[2018.01.26-23.07.43:241][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.26-23.07.43:241][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.26-23.07.43:241][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.26-23.07.43:291][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.26-23.07.45:748][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.26-23.07.45:799][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.26-23.07.46:439][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.26-23.07.46:837][  0]SourceControl: Source control is disabled
+[2018.01.26-23.07.46:837][  0]SourceControl: Source control is disabled
+[2018.01.26-23.07.46:887][  0]SourceControl: Source control is disabled
+[2018.01.26-23.07.46:939][  0]SourceControl: Source control is disabled
+[2018.01.26-23.07.47:741][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.26-23.07.48:004][  0]LogOcInput: OculusInput pre-init called
+[2018.01.26-23.07.48:274][  0]LogEngine: Initializing Engine...
+[2018.01.26-23.07.48:276][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2018.01.26-23.07.48:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.26-23.07.48:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.26-23.07.48:575][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.26-23.07.48:582][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.07.48:592][  0]LogInit: FAudioDevice initialized.
+[2018.01.26-23.07.48:667][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/VR Club User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-23.07.48:678][  0]LogInit: Texture streaming: Enabled
+[2018.01.26-23.07.48:767][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.26-23.07.48:883][  0]LogInit: Transaction tracking system initialized
+[2018.01.26-23.07.49:161][  0]BlueprintLog: New page: Editor Load
+[2018.01.26-23.07.50:006][  0]LocalizationService: Localization service is disabled
+[2018.01.26-23.07.50:687][  0]LogConsoleResponse: Display: 
+[2018.01.26-23.07.50:843][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.26-23.07.50:843][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.26-23.07.50:843][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.26-23.07.51:109][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/' took 0.01s
+[2018.01.26-23.07.51:973][  0]SourceControl: Source control is disabled
+[2018.01.26-23.07.51:975][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.01.26-23.07.51:985][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.01.26-23.07.51:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.01.26-23.07.52:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.01.26-23.07.52:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.01.26-23.07.52:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.01.26-23.07.52:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.01.26-23.07.52:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.01.26-23.07.52:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.01.26-23.07.52:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.01.26-23.07.52:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.01.26-23.07.52:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.01.26-23.07.52:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.01.26-23.07.52:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.01.26-23.07.52:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.01.26-23.07.52:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.01.26-23.07.52:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.01.26-23.07.52:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.01.26-23.07.52:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.01.26-23.07.52:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Fire01.uasset"
+[2018.01.26-23.07.52:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.01.26-23.07.52:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.01.26-23.07.52:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.01.26-23.07.52:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Light01.uasset"
+[2018.01.26-23.07.52:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.01.26-23.07.52:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Light02.uasset"
+[2018.01.26-23.07.52:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.01.26-23.07.52:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.01.26-23.07.52:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.01.26-23.07.52:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.01.26-23.07.52:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.01.26-23.07.52:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.01.26-23.07.52:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.01.26-23.07.52:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.01.26-23.07.52:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.01.26-23.07.52:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Steam01.uasset"
+[2018.01.26-23.07.52:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.01.26-23.07.52:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.01.26-23.07.52:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.01.26-23.07.52:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.01.26-23.07.52:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.01.26-23.07.52:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.01.26-23.07.52:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.01.26-23.07.52:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.01.26-23.07.52:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.01.26-23.07.52:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.01.26-23.07.52:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.01.26-23.07.52:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.01.26-23.07.52:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.01.26-23.07.52:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.01.26-23.07.52:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.01.26-23.07.52:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.01.26-23.07.52:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.01.26-23.07.52:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.01.26-23.07.52:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.01.26-23.07.52:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.01.26-23.07.52:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.01.26-23.07.52:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.01.26-23.07.52:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Maps/StarterMap.umap"
+[2018.01.26-23.07.52:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.01.26-23.07.52:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.01.26-23.07.52:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.01.26-23.07.52:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.01.26-23.07.52:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.01.26-23.07.53:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.01.26-23.07.53:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.01.26-23.07.53:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.01.26-23.07.53:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.01.26-23.07.53:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.01.26-23.07.53:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.01.26-23.07.53:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.01.26-23.07.53:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.01.26-23.07.53:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.01.26-23.07.53:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.01.26-23.07.53:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.01.26-23.07.53:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.01.26-23.07.53:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.01.26-23.07.53:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.01.26-23.07.53:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.01.26-23.07.53:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.01.26-23.07.53:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.01.26-23.07.53:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.01.26-23.07.53:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.01.26-23.07.53:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.01.26-23.07.53:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.01.26-23.07.53:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.01.26-23.07.53:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.01.26-23.07.53:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.01.26-23.07.53:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.01.26-23.07.53:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.01.26-23.07.53:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.01.26-23.07.53:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.01.26-23.07.53:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.01.26-23.07.53:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.01.26-23.07.53:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.01.26-23.07.53:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.01.26-23.07.53:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.01.26-23.07.53:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.01.26-23.07.53:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.01.26-23.07.53:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.01.26-23.07.53:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.01.26-23.07.53:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.01.26-23.07.53:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.01.26-23.07.53:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.01.26-23.07.53:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.01.26-23.07.53:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.01.26-23.07.53:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.01.26-23.07.53:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.01.26-23.07.53:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.01.26-23.07.53:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.01.26-23.07.53:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.01.26-23.07.53:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.01.26-23.07.53:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.01.26-23.07.53:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.01.26-23.07.53:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.01.26-23.07.53:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.01.26-23.07.53:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.01.26-23.07.53:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.01.26-23.07.53:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.01.26-23.07.53:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.01.26-23.07.53:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.01.26-23.07.53:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.01.26-23.07.53:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.01.26-23.07.53:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.01.26-23.07.53:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Door.uasset"
+[2018.01.26-23.07.53:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.01.26-23.07.53:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.01.26-23.07.53:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.01.26-23.07.53:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.01.26-23.07.53:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.01.26-23.07.53:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.01.26-23.07.53:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.01.26-23.07.53:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.01.26-23.07.53:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.01.26-23.07.53:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.01.26-23.07.53:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.01.26-23.07.53:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.01.26-23.07.53:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.01.26-23.07.53:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.01.26-23.07.53:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.01.26-23.07.53:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.01.26-23.07.53:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.01.26-23.07.53:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.01.26-23.07.53:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.01.26-23.07.53:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.01.26-23.07.53:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.01.26-23.07.53:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.01.26-23.07.53:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.01.26-23.07.53:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.01.26-23.07.53:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.01.26-23.07.53:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.01.26-23.07.53:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.01.26-23.07.53:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.01.26-23.07.53:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.01.26-23.07.53:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.01.26-23.07.53:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.01.26-23.07.53:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.01.26-23.07.53:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.01.26-23.07.53:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.01.26-23.07.53:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.01.26-23.07.53:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.01.26-23.07.53:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.01.26-23.07.53:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.01.26-23.07.53:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.01.26-23.07.53:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.01.26-23.07.53:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.01.26-23.07.53:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.01.26-23.07.53:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.01.26-23.07.53:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.01.26-23.07.53:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.01.26-23.07.53:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.01.26-23.07.54:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.01.26-23.07.54:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.01.26-23.07.54:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.01.26-23.07.54:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.01.26-23.07.54:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.01.26-23.07.54:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.01.26-23.07.54:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.01.26-23.07.54:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.01.26-23.07.54:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.01.26-23.07.54:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.01.26-23.07.54:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.01.26-23.07.54:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.01.26-23.07.54:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.01.26-23.07.54:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.01.26-23.07.54:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.01.26-23.07.54:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.01.26-23.07.54:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.01.26-23.07.54:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.01.26-23.07.54:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.01.26-23.07.54:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.01.26-23.07.54:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.01.26-23.07.54:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.01.26-23.07.54:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.01.26-23.07.54:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.01.26-23.07.54:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.01.26-23.07.54:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.01.26-23.07.54:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.01.26-23.07.54:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.01.26-23.07.54:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.01.26-23.07.54:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.01.26-23.07.54:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.01.26-23.07.54:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.01.26-23.07.55:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.01.26-23.07.55:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.01.26-23.07.55:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.01.26-23.07.55:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.01.26-23.07.55:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.01.26-23.07.55:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.01.26-23.07.55:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.01.26-23.07.55:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.01.26-23.07.55:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.01.26-23.07.55:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.01.26-23.07.55:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.01.26-23.07.55:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.01.26-23.07.55:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.01.26-23.07.55:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.01.26-23.07.55:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.01.26-23.07.55:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.01.26-23.07.55:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.01.26-23.07.55:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.01.26-23.07.55:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.01.26-23.07.55:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.01.26-23.07.55:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.01.26-23.07.55:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.01.26-23.07.55:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.01.26-23.07.55:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.01.26-23.07.55:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.01.26-23.07.55:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.01.26-23.07.55:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.01.26-23.07.55:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.01.26-23.07.55:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.01.26-23.07.55:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.01.26-23.07.55:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.01.26-23.07.55:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.01.26-23.07.55:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.01.26-23.07.56:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.01.26-23.07.56:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.01.26-23.07.56:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.01.26-23.07.56:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.01.26-23.07.56:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.01.26-23.07.56:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.01.26-23.07.56:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.01.26-23.07.56:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.01.26-23.07.56:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.01.26-23.07.56:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.01.26-23.07.56:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.01.26-23.07.56:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.01.26-23.07.56:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.01.26-23.07.56:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.01.26-23.07.56:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.01.26-23.07.56:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.01.26-23.07.56:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.01.26-23.07.56:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.01.26-23.07.56:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.01.26-23.07.56:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.01.26-23.07.56:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.01.26-23.07.56:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.01.26-23.07.56:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.01.26-23.07.56:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.01.26-23.07.56:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.01.26-23.07.56:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.01.26-23.07.56:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.01.26-23.07.56:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.01.26-23.07.56:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.01.26-23.07.56:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.01.26-23.07.56:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.01.26-23.07.56:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.01.26-23.07.56:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.01.26-23.07.57:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.01.26-23.07.57:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.01.26-23.07.57:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.01.26-23.07.57:133][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-23.07.57:187][  0]LogSavePackage: Save=12.39ms
+[2018.01.26-23.07.57:187][  0]LogSavePackage: Moving '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Floor_400x4006B08852C4258E0D45CDEA3AA23057967.tmp' to '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.01.26-23.07.57:193][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.01.26-23.07.57:193][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.01.26-23.07.57:196][  0]LightingResults: New page: Lighting Build
+[2018.01.26-23.07.57:232][  0]MapCheck: New page: Map Check
+[2018.01.26-23.07.57:232][  0]LightingResults: New page: Lighting Build
+[2018.01.26-23.07.57:520][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.26-23.07.57:636][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.26-23.07.57:938][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2018.01.26-23.07.58:057][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-23.07.58:073][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-23.07.58:093][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-23.07.58:170][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.991ms to complete.
+[2018.01.26-23.07.58:170][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.974
+[2018.01.26-23.07.58:232][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.26-23.07.58:343][  0]LogCollectionManager: Loaded 0 collections in 0.003657 seconds
+[2018.01.26-23.07.58:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Collections/' took 0.01s
+[2018.01.26-23.07.58:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/Developers/VRClubUser/Collections/' took 0.01s
+[2018.01.26-23.07.58:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/Collections/' took 0.01s
+[2018.01.26-23.07.58:456][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.26-23.07.58:468][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2363 classes and 519 folders.
+[2018.01.26-23.07.58:577][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.26-23.07.58:631][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.26-23.07.58:703][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-23.07.59:935][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.26-23.07.59:960][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-23.07.59:963][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.26-23.07.59:970][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.26-23.08.00:026][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BpTutorial02
+[2018.01.26-23.08.00:026][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.26-23.08.00:027][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.26-23.08.00:027][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.26-23.08.00:027][  0]LogTemp: BranchPath = JUNE/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = JUNE/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.26-23.08.00:027][  0]LogRenderer: Reallocating scene render targets to support 1252x656 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-23.08.00:081][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VR Club User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.26-23.08.00:081][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-23.08.00:248][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-23.08.00:248][  0]LogLoad: (Engine Initialization) Total time: 23.88 seconds
+[2018.01.26-23.08.00:248][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.26-23.08.00:248][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.26-23.08.00:269][  0]LogOcInput: OculusInput is initialized
+[2018.01.26-23.08.00:445][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.26-23.08.00:495][  1]LogAssetRegistry: Asset discovery search completed in 17.7334 seconds
+[2018.01.26-23.08.00:499][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.26-23.08.00:499][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000117 seconds (updated 0 objects)
+[2018.01.26-23.08.03:649][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.01.26-23.08.03:894][337]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.26-23.08.05:544][477]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.26-23.08.06:943][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.09.43:907][991]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.26-23.09.43:912][991]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-23.09.43:919][991]LightingResults: New page: Lighting Build
+[2018.01.26-23.09.43:920][991]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.01.26-23.09.43:922][991]MapCheck: New page: Map Check
+[2018.01.26-23.09.43:922][991]LightingResults: New page: Lighting Build
+[2018.01.26-23.09.43:993][991]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.09.44:000][991]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-23.09.44:012][991]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-23.09.44:060][991]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.583ms to complete.
+[2018.01.26-23.09.44:060][991]LogFileHelpers: Loading map 'Template_Default' took 0.154
+[2018.01.26-23.10.03:100][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.10.08:805][694]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-23.10.08:878][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-23.10.08:878][694]LogHMD: Initializing OVRPlugin session
+[2018.01.26-23.10.08:905][694]PIE: New page: PIE session: Untitled_1 (Jan 26, 2018, 1:10:08 PM)
+[2018.01.26-23.10.08:905][694]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.26-23.10.08:911][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005778s)
+[2018.01.26-23.10.08:912][694]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.10.08:912][694]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2018.01.26-23.10.08:913][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007199s)
+[2018.01.26-23.10.08:926][694]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.10.08:932][694]LogInit: FAudioDevice initialized.
+[2018.01.26-23.10.08:977][694]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-23.10.08:979][694]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.26-18.10.08
+[2018.01.26-23.10.08:979][694]LogWorld: Bringing up level for play took: 0.000656
+[2018.01.26-23.10.09:018][694]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.26-23.10.09:022][694]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.87
+[2018.01.26-23.10.33:743][649]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-23.10.33:764][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-23.10.33:765][649]LogHMD: Initializing OVRPlugin session
+[2018.01.26-23.10.33:783][649]PIE: New page: PIE session: Untitled_1 (Jan 26, 2018, 1:10:33 PM)
+[2018.01.26-23.10.33:783][649]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.26-23.10.33:787][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003916s)
+[2018.01.26-23.10.33:788][649]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.10.33:788][649]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.01.26-23.10.33:788][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004840s)
+[2018.01.26-23.10.33:800][649]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.10.33:806][649]LogInit: FAudioDevice initialized.
+[2018.01.26-23.10.33:837][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-23.10.33:838][649]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.26-18.10.33
+[2018.01.26-23.10.33:839][649]LogWorld: Bringing up level for play took: 0.000518
+[2018.01.26-23.10.33:840][649]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.312
+[2018.01.26-23.11.07:820][306]LogSlate: Took 0.007426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.01.26-23.11.44:738][777]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2018.01.26-23.11.54:321][912]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2018.01.26-23.13.38:749][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.01.26-23.13.41:678][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.13.43:167][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.01.26-23.13.59:876][771]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.26-23.14.03:259][173]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.14.05:276][413]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.14.07:024][621]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.14.21:998][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.14.23:768][291]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.26-23.14.26:450][609]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.14.33:473][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.14.36:015][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.01.26-23.14.36:991][702]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.26-23.14.37:623][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.14.54:094][708]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2018.01.26-23.14.58:647][233]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2018.01.26-23.15.45:416][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.15.52:750][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.01.26-23.15.54:213][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.01.26-23.16.00:721][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.01.26-23.16.04:096][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.16.17:791][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.01.26-23.16.33:127][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.16.34:893][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.16.35:475][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.16.39:175][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.16.39:281][772]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.26-23.16.48:061][766]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.26-23.16.52:125][250]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.16.52:756][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.17.11:082][487]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.26-23.17.14:828][933]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.17.15:318][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.17.25:630][199]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.26-23.17.27:360][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.26-23.17.27:975][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.17.54:049][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.17.58:820][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.18.00:736][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.18.10:640][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.01.26-23.18.23:574][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.18.41:544][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.01.26-23.18.48:014][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.01.26-23.20.04:103][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.20.06:165][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2018.01.26-23.20.06:771][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.20.39:459][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2018.01.26-23.20.51:737][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2018.01.26-23.20.58:342][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.20.59:042][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.21.01:150][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2018.01.26-23.21.50:282][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2018.01.26-23.22.10:324][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2018.01.26-23.22.30:299][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2018.01.26-23.24.04:809][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2018.01.26-23.24.05:540][420]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.26-23.24.12:145][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.26-23.24.13:037][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2018.01.26-23.24.15:758][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.24.16:641][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2018.01.26-23.24.17:023][766]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.26-23.25.10:330][880]LogSlate: Took 0.000595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-23.25.19:000][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.25.19:646][676]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.25.20:029][720]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.01.26-23.25.22:019][943]LogSavePackage: Save=32.28ms
+[2018.01.26-23.25.22:020][943]LogSavePackage: Moving '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Untitled_1_Auto18443F9234C5B20AFE2B0D590AE4B5379.tmp' to '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.01.26-23.25.22:021][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.01.26-23.25.22:025][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.048
+[2018.01.26-23.25.22:025][943]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2018.01.26-23.25.24:824][274]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.26-23.28.09:355][ 84]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.01.26-23.28.09:920][ 84]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.26-23.32.23:410][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.32.24:615][681]Cmd: SELECT NONE
+[2018.01.26-23.32.27:947][ 55]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.26-23.32.44:986][393]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.26-23.32.45:388][429]Cmd: SELECT NONE
+[2018.01.26-23.33.10:710][933]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.26-23.34.00:804][543]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.26-23.40.14:144][536]LogSavePackage: Save=47.69ms
+[2018.01.26-23.40.14:144][536]LogSavePackage: Moving '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Untitled_1_Auto2C54EF5F74008469FE76A2F8F886AF15C.tmp' to '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2018.01.26-23.40.14:146][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Autosaves/Temp/Untitled_1_Auto2.umap
+[2018.01.26-23.40.14:148][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.071
+[2018.01.26-23.40.14:149][536]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2018.01.26-23.41.20:059][877]BlueprintLog: New page: Compile Untitled
+[2018.01.26-23.42.27:625][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.27:626][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-23.42.27:626][290]PIE: New page: SIE session: Untitled_1 (Jan 26, 2018, 1:42:27 PM)
+[2018.01.26-23.42.27:626][290]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.26-23.42.27:631][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005357s)
+[2018.01.26-23.42.27:632][290]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.42.27:632][290]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.01.26-23.42.27:633][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006974s)
+[2018.01.26-23.42.27:652][290]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.42.27:658][290]LogInit: FAudioDevice initialized.
+[2018.01.26-23.42.27:694][290]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-23.42.27:695][290]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.26-18.42.27
+[2018.01.26-23.42.27:696][290]LogWorld: Bringing up level for play took: 0.000963
+[2018.01.26-23.42.27:697][290]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.456
+[2018.01.26-23.42.27:713][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.31:852][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.31:883][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.32:709][863]LogTemp: Repeating last play command: Simulate
+[2018.01.26-23.42.32:719][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.32:719][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-23.42.32:719][863]PIE: New page: SIE session: Untitled_1 (Jan 26, 2018, 1:42:32 PM)
+[2018.01.26-23.42.32:719][863]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.26-23.42.32:724][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004847s)
+[2018.01.26-23.42.32:725][863]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.42.32:725][863]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.01.26-23.42.32:726][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006036s)
+[2018.01.26-23.42.32:745][863]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.42.32:751][863]LogInit: FAudioDevice initialized.
+[2018.01.26-23.42.32:789][863]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-23.42.32:790][863]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.26-18.42.32
+[2018.01.26-23.42.32:791][863]LogWorld: Bringing up level for play took: 0.000912
+[2018.01.26-23.42.32:792][863]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.639
+[2018.01.26-23.42.32:794][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.38:373][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.38:408][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.46:050][420]LogTemp: Repeating last play command: Simulate
+[2018.01.26-23.42.46:061][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.46:061][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-23.42.46:061][420]PIE: New page: SIE session: Untitled_1 (Jan 26, 2018, 1:42:46 PM)
+[2018.01.26-23.42.46:061][420]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.26-23.42.46:066][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004604s)
+[2018.01.26-23.42.46:067][420]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.42.46:067][420]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.01.26-23.42.46:067][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005908s)
+[2018.01.26-23.42.46:085][420]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.42.46:091][420]LogInit: FAudioDevice initialized.
+[2018.01.26-23.42.46:123][420]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-23.42.46:124][420]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.26-18.42.46
+[2018.01.26-23.42.46:124][420]LogWorld: Bringing up level for play took: 0.000800
+[2018.01.26-23.42.46:125][420]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.027
+[2018.01.26-23.42.46:128][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.56:093][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.01.26-23.42.59:955][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.42.59:990][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.43.16:349][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.43.16:350][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-23.43.16:350][117]LogHMD: Initializing OVRPlugin session
+[2018.01.26-23.43.16:374][117]PIE: New page: PIE session: Untitled_1 (Jan 26, 2018, 1:43:16 PM)
+[2018.01.26-23.43.16:374][117]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.26-23.43.16:379][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004741s)
+[2018.01.26-23.43.16:380][117]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-23.43.16:380][117]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.01.26-23.43.16:380][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006180s)
+[2018.01.26-23.43.16:400][117]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-23.43.16:406][117]LogInit: FAudioDevice initialized.
+[2018.01.26-23.43.16:438][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-23.43.16:440][117]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.26-18.43.16
+[2018.01.26-23.43.16:440][117]LogWorld: Bringing up level for play took: 0.000820
+[2018.01.26-23.43.16:442][117]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.29
+[2018.01.26-23.43.16:442][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.43.34:579][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.43.34:620][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.01.26-23.45.23:997][558]LogSavePackage: Save=112.23ms
+[2018.01.26-23.45.23:997][558]LogSavePackage: Moving '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/BpTutorial02CE3BE7D34DDD64939932008B17864666.tmp' to '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/TutorialMaps/BpTutorial02.umap'
+[2018.01.26-23.45.24:000][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/TutorialMaps/BpTutorial02.umap
+[2018.01.26-23.45.24:045][558]LogSavePackage: Save=12.09ms
+[2018.01.26-23.45.24:045][558]LogSavePackage: Moving '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/BpTutorial02_BuiltDataC1FB52174F3CDD955E5B0B8F5CBC80C7.tmp' to '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/TutorialMaps/BpTutorial02_BuiltData.uasset'
+[2018.01.26-23.45.24:047][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/TutorialMaps/BpTutorial02_BuiltData.uasset
+[2018.01.26-23.45.24:052][558]LogFileHelpers: Saving map 'BpTutorial02' took 0.343
+[2018.01.26-23.57.04:123][824]Cmd: QUIT_EDITOR
+[2018.01.26-23.57.04:564][824]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.26-23.57.04:616][824]LogExit: Preparing to exit.
+[2018.01.26-23.57.04:907][824]LogDirectoryWatcher: A directory notification for 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/' was aborted.
+[2018.01.26-23.57.04:957][824]LogExit: Editor shut down
+[2018.01.26-23.57.04:961][824]LogExit: Transaction tracking system shut down
+[2018.01.26-23.57.05:115][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.26-23.57.05:116][824]LogDirectoryWatcher: A directory notification for '../../../../../../Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/' was aborted.
+[2018.01.26-23.57.05:116][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.26-23.57.05:116][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.26-23.57.05:116][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.26-23.57.05:116][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.26-23.57.05:116][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.26-23.57.05:193][824]LogExit: Object subsystem successfully closed.
+[2018.01.26-23.57.05:210][824]LogD3D11RHI: Shutdown
+[2018.01.26-23.57.05:210][824]LogD3D11RHI: CleanupD3DDevice
+[2018.01.26-23.57.05:214][824]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module NewLevelDialog (552)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (548)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.26-23.57.05:229][824]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.26-23.57.05:229][824]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.26-23.57.05:230][824]LogDirectoryWatcher: A directory notification for 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/Collections/' was aborted.
+[2018.01.26-23.57.05:230][824]LogDirectoryWatcher: A directory notification for 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Content/Developers/VRClubUser/Collections/' was aborted.
+[2018.01.26-23.57.05:230][824]LogDirectoryWatcher: A directory notification for 'C:/Users/VR Club User/Documents/Unreal Projects/AkshayBlueprintTutorial/BpTutorial02/Saved/Collections/' was aborted.
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.26-23.57.05:230][824]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.26-23.57.05:231][824]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.26-23.57.05:466][824]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.26-23.57.05:467][824]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.26-23.57.05:521][824]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.26-23.57.05:531][824]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.26-23.57.05:532][824]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.26-23.57.05:682][824]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.26-23.57.05:682][824]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.26-23.57.05:682][824]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.26-23.57.05:683][824]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.26-23.57.05:684][824]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.26-23.57.05:684][824]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.26-23.57.05:684][824]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.26-23.57.05:684][824]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.26-23.57.05:684][824]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.26-23.57.05:684][824]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.26-23.57.05:685][824]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.26-23.57.05:685][824]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.26-23.57.05:685][824]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.26-23.57.05:686][824]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.26-23.57.05:787][824]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.26-23.57.05:888][824]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.26-23.57.05:888][824]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.26-23.57.05:888][824]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.26-23.57.05:888][824]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.26-23.57.05:888][824]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.26-23.57.05:888][824]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.26-23.57.05:889][824]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.26-23.57.05:889][824]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.26-23.57.05:889][824]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.26-23.57.05:890][824]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.26-23.57.05:892][824]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.26-23.57.05:892][824]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.26-23.57.05:892][824]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.26-23.57.05:892][824]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.26-23.57.05:893][824]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.26-23.57.05:893][824]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.26-23.57.05:899][824]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.26-23.57.05:903][824]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.26-23.57.05:904][824]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.26-23.57.05:904][824]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.26-23.57.05:904][824]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.26-23.57.05:904][824]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.26-23.57.05:904][824]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.26-23.57.05:904][824]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.26-23.57.05:905][824]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.26-23.57.05:905][824]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.26-23.57.05:905][824]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.26-23.57.05:905][824]LogDerivedDataCache: Shutdown
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.26-23.57.05:906][824]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.26-23.57.05:907][824]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.26-23.57.05:907][824]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.26-23.57.05:907][824]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6365EC78-4647-2076-D477-B9A30F989CD6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=d0ffec6842fdc429ed4e208e3dc300e9%7C2233de3b3f9c407d95762cb19eaa9211%7Cfa6397d0-de2b-41e8-a938-b224b6beb2fc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.26-23.57.05:913][824]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.26-23.57.05:915][824]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.26-23.57.05:917][824]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.26-23.57.05:918][824]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.26-23.57.05:918][824]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.26-23.57.05:922][824]LogExit: Exiting.
+[2018.01.26-23.57.05:938][824]Log file closed, 01/26/18 18:57:05
